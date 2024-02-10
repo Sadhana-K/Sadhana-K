@@ -12,6 +12,9 @@ Aspiring Web Developer
 ### I code in 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 
+
+### 💻 Workspace Spec
+[![Sadhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadhana-K&bg_color=1f1e1f&color=64af55&line=06c613&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 <!---
 Sadhana-K/Sadhana-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
